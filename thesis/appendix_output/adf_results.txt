@@ -1,0 +1,17 @@
+ADF on levels:
+  adf_statistic: 1.5334124575324206
+  p_value: 0.997643397352199
+  used_lag: 0
+  n_obs: 18
+  critical_value_1pct: -3.859073285322359
+  critical_value_5pct: -3.0420456927297668
+  critical_value_10pct: -2.6609064197530863
+
+ADF on first difference:
+  adf_statistic: -3.89274025695499
+  p_value: 0.0020889292066928384
+  used_lag: 0
+  n_obs: 17
+  critical_value_1pct: -3.889265672705068
+  critical_value_5pct: -3.0543579727254224
+  critical_value_10pct: -2.66698384083045
